@@ -1,0 +1,7 @@
+[
+  {
+    "keys": ["ctrl+u", "ctrl+d"],
+    "command": "delete_current_file"
+  },
+
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "caption": "FileUtil: Delete file",
+    "command": "delete_current_file"
+  },
+
+  {
+    "caption": "FileUtil: Rename file",
+    "command": "rename_current_file"
+  }
+]
