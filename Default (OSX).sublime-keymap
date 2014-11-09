@@ -1,7 +1,10 @@
 [
   {
     "keys": ["ctrl+u", "ctrl+d"],
-    "command": "delete_current_file"
+    "command": "delete_current_file",
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
+    ]
   },
 
 ]

@@ -1,4 +1,4 @@
-# Sublime FileUtil plugin
+# Sublime DeleteFileByHotkey plugin
 
 Delete and rename file (deprected) functionality. Note that rename file were
 replaced by FileDialog.
@@ -6,7 +6,7 @@ replaced by FileDialog.
 
 ### Demo
 
-![Demo](https://raw.github.com/shagabutdinov/sublime-file-util/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-enhanced-demos/raw/master/file_util.gif "Demo")
 
 
 ### Installation
@@ -30,3 +30,8 @@ it forewer.
 |-------------|-------------------|-----------------------|
 | Delete file | ctrl+u, ctrl+d    | FileUtil: Delete file |
 | Rename file |                   | FileUtil: Rename file |
+
+
+### Dependencies
+
+None
